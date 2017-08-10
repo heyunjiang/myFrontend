@@ -86,4 +86,7 @@
 
 -[echart for react](https://github.com/hustcc/echarts-for-react) 在react中使用echarts，源码很短，就是对echarts的一个简单封装
 
+-[冴羽博客](https://github.com/mqyqingfeng/Blog) 四个系列：js深入系列、js专题系列、es6系列、react系列。js深入系列很不错，巩固自己基础
+
+-[前端小密圈](https://github.com/jawil/blog) 这里面写了一些css、js的深入理解和技巧，还有一篇面试分享，看看就知道自己有多菜了
 
