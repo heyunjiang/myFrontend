@@ -90,3 +90,5 @@
 
 -[前端小密圈](https://github.com/jawil/blog) 这里面写了一些css、js的深入理解和技巧，还有一篇面试分享，看看就知道自己有多菜了
 
+-[前端跨域](https://stackoverflow.com/questions/35588699/response-to-preflight-request-doesnt-pass-access-control-check/36446460#36446460) 跨域的几种解决办法，包括禁用浏览器的同源策略参数设置等
+
