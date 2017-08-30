@@ -92,3 +92,6 @@
 
 -[前端跨域](https://stackoverflow.com/questions/35588699/response-to-preflight-request-doesnt-pass-access-control-check/36446460#36446460) 跨域的几种解决办法，包括禁用浏览器的同源策略参数设置等
 
+-[react-router-redux](https://github.com/reactjs/react-router-redux) conbine with react-router 和 react-redux
+
+-[redux-saga 中文](http://leonshi.com/redux-saga-in-chinese/) redux-sage是redux中间件，用于集中处理effects，方便异步操作
