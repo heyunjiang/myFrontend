@@ -97,3 +97,5 @@
 -[redux-saga 中文](http://leonshi.com/redux-saga-in-chinese/) redux-sage是redux中间件，用于集中处理effects，方便异步操作
 
 -[office2013激活工具](https://pan.baidu.com/s/1i3mRV8L)
+
+-[paper安全技术精粹](https://paper.seebug.org/)
